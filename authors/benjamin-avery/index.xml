@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjamin Avery | AR Lab</title>
+    <link>https://ar-lab.org/authors/benjamin-avery/</link>
+      <atom:link href="https://ar-lab.org/authors/benjamin-avery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benjamin Avery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ar-lab.org/img/icon-192.png</url>
+      <title>Benjamin Avery</title>
+      <link>https://ar-lab.org/authors/benjamin-avery/</link>
+    </image>
+    
+    <item>
+      <title>See-Through Vision for Mobile Outdoor Augmented Reality</title>
+      <link>https://ar-lab.org/publication/avery-2008-ismar/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/publication/avery-2008-ismar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>self-bending beams | AR Lab</title>
+    <link>https://ar-lab.org/tags/self-bending-beams/</link>
+      <atom:link href="https://ar-lab.org/tags/self-bending-beams/index.xml" rel="self" type="application/rss+xml" />
+    <description>self-bending beams</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ar-lab.org/img/icon-192.png</url>
+      <title>self-bending beams</title>
+      <link>https://ar-lab.org/tags/self-bending-beams/</link>
+    </image>
+    
+    <item>
+      <title>SoundBender: Dynamic Acoustic Control Behind Obstacles</title>
+      <link>https://ar-lab.org/publication/10-1145-3242587-3242590/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/publication/10-1145-3242587-3242590/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

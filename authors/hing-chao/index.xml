@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hing Chao | AR Lab</title>
+    <link>https://ar-lab.org/authors/hing-chao/</link>
+      <atom:link href="https://ar-lab.org/authors/hing-chao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hing Chao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ar-lab.org/img/icon-192.png</url>
+      <title>Hing Chao</title>
+      <link>https://ar-lab.org/authors/hing-chao/</link>
+    </image>
+    
+    <item>
+      <title>3D Animation with Scientific Annotation - Geometric Representations of Italian Martial Arts (Two Swords)</title>
+      <link>https://ar-lab.org/publication/chao-2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/publication/chao-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

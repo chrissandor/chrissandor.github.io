@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | AR Lab</title>
+    <link>https://ar-lab.org/categories/</link>
+      <atom:link href="https://ar-lab.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ar-lab.org/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://ar-lab.org/categories/</link>
+    </image>
+    
+    <item>
+      <title>News</title>
+      <link>https://ar-lab.org/categories/news/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/categories/news/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

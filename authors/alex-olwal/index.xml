@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Olwal | AR Lab</title>
+    <link>https://ar-lab.org/authors/alex-olwal/</link>
+      <atom:link href="https://ar-lab.org/authors/alex-olwal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alex Olwal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ar-lab.org/img/icon-192.png</url>
+      <title>Alex Olwal</title>
+      <link>https://ar-lab.org/authors/alex-olwal/</link>
+    </image>
+    
+    <item>
+      <title>Immersive Mixed-Reality Configuration of Hybrid User Interfaces</title>
+      <link>https://ar-lab.org/publication/hybrid-ismar/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/publication/hybrid-ismar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual End User Configuration of Hybrid User Interfaces</title>
+      <link>https://ar-lab.org/publication/sandor-2004-hybrid/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/publication/sandor-2004-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual End User Configuration of Hybrid User Interfaces</title>
+      <link>https://ar-lab.org/publication/sandor-04-sigmm/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/publication/sandor-04-sigmm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

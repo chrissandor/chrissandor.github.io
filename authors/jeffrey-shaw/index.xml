@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeffrey Shaw | AR Lab</title>
+    <link>https://ar-lab.org/authors/jeffrey-shaw/</link>
+      <atom:link href="https://ar-lab.org/authors/jeffrey-shaw/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeffrey Shaw</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ar-lab.org/img/icon-192.png</url>
+      <title>Jeffrey Shaw</title>
+      <link>https://ar-lab.org/authors/jeffrey-shaw/</link>
+    </image>
+    
+    <item>
+      <title>3D Animation with Scientific Annotation - Geometric Representations of Italian Martial Arts (Two Swords)</title>
+      <link>https://ar-lab.org/publication/chao-2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/publication/chao-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Sculptures</title>
+      <link>https://ar-lab.org/publication/shaw-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/publication/shaw-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

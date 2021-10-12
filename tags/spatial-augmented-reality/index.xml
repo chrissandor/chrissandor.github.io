@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spatial augmented reality | AR Lab</title>
+    <link>https://ar-lab.org/tags/spatial-augmented-reality/</link>
+      <atom:link href="https://ar-lab.org/tags/spatial-augmented-reality/index.xml" rel="self" type="application/rss+xml" />
+    <description>spatial augmented reality</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ar-lab.org/img/icon-192.png</url>
+      <title>spatial augmented reality</title>
+      <link>https://ar-lab.org/tags/spatial-augmented-reality/</link>
+    </image>
+    
+    <item>
+      <title>Robust Reflectance Estimation for Projection-Based Appearance Control in a Dynamic Light Environment</title>
+      <link>https://ar-lab.org/publication/akiyama-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/publication/akiyama-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illusory light: Perceptual appearance control using a projection-induced illusion</title>
+      <link>https://ar-lab.org/publication/akiyama-illusory-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/publication/akiyama-illusory-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

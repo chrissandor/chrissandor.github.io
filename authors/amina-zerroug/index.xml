@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amina Zerroug | AR Lab</title>
+    <link>https://ar-lab.org/authors/amina-zerroug/</link>
+      <atom:link href="https://ar-lab.org/authors/amina-zerroug/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amina Zerroug</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ar-lab.org/img/icon-192.png</url>
+      <title>Amina Zerroug</title>
+      <link>https://ar-lab.org/authors/amina-zerroug/</link>
+    </image>
+    
+    <item>
+      <title>scoreLight: playing with a human sized laser pickup</title>
+      <link>https://ar-lab.org/publication/cassinelli-scorelight-2010/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/publication/cassinelli-scorelight-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

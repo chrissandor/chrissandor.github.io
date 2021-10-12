@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiroyuki Yamamoto | AR Lab</title>
+    <link>https://ar-lab.org/authors/hiroyuki-yamamoto/</link>
+      <atom:link href="https://ar-lab.org/authors/hiroyuki-yamamoto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hiroyuki Yamamoto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ar-lab.org/img/icon-192.png</url>
+      <title>Hiroyuki Yamamoto</title>
+      <link>https://ar-lab.org/authors/hiroyuki-yamamoto/</link>
+    </image>
+    
+    <item>
+      <title>Exploring Visuo-Haptic Mixed Reality</title>
+      <link>https://ar-lab.org/publication/sandor-prmu-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/publication/sandor-prmu-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visuo-Haptic Systems: Half-Mirrors Considered Harmful</title>
+      <link>https://ar-lab.org/publication/sandor-2007-b/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/publication/sandor-2007-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

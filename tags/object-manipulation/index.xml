@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Object manipulation | AR Lab</title>
+    <link>https://ar-lab.org/tags/object-manipulation/</link>
+      <atom:link href="https://ar-lab.org/tags/object-manipulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Object manipulation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ar-lab.org/img/icon-192.png</url>
+      <title>Object manipulation</title>
+      <link>https://ar-lab.org/tags/object-manipulation/</link>
+    </image>
+    
+    <item>
+      <title>SlidAR&#43;: Gravity-Aware 3D Object Manipulation for Handheld Augmented Reality</title>
+      <link>https://ar-lab.org/publication/fuvattanasilp-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/publication/fuvattanasilp-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cecilia Li | AR Lab</title>
+    <link>https://ar-lab.org/authors/cecilia-li/</link>
+      <atom:link href="https://ar-lab.org/authors/cecilia-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cecilia Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ar-lab.org/img/icon-192.png</url>
+      <title>Cecilia Li</title>
+      <link>https://ar-lab.org/authors/cecilia-li/</link>
+    </image>
+    
+    <item>
+      <title>Investigation of Microcirculatory Effects of Experiencing Burning Hands in Augmented Reality</title>
+      <link>https://ar-lab.org/publication/eckhoff-2021-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/publication/eckhoff-2021-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
