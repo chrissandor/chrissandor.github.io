@@ -137,6 +137,21 @@
   </url>
   
   <url>
+    <loc>https://ar-lab.org/authors/alejandro-rodriguez/</loc>
+    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ar-lab.org/project/horizon/</loc>
+    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ar-lab.org/project/</loc>
+    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ar-lab.org/tags/appearance-manipulation/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -364,6 +379,21 @@
   <url>
     <loc>https://ar-lab.org/authors/xing-dong-yang/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ar-lab.org/authors/david-maruscsak/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ar-lab.org/project/aura/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ar-lab.org/project/arpsychophysics/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3992,19 +4022,11 @@
   </url>
   
   <url>
-    <loc>https://ar-lab.org/authors/alejandro-rodriguez/</loc>
-  </url>
-  
-  <url>
     <loc>https://ar-lab.org/authors/birte-malz/</loc>
   </url>
   
   <url>
     <loc>https://ar-lab.org/authors/colin-blakemore/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ar-lab.org/authors/david-maruscsak/</loc>
   </url>
   
   <url>
@@ -4048,15 +4070,27 @@
   </url>
   
   <url>
+    <loc>https://ar-lab.org/project/size-weight-illusion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ar-lab.org/project/ar-ptsd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ar-lab.org/project/avatar-meeting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ar-lab.org/project/interactive-immersive-proj/</loc>
+  </url>
+  
+  <url>
     <loc>https://ar-lab.org/all_publications/</loc>
   </url>
   
   <url>
     <loc>https://ar-lab.org/lab_publications/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ar-lab.org/project/</loc>
   </url>
   
   <url>

@@ -515,6 +515,21 @@
     </item>
     
     <item>
+      <title>HORIZON</title>
+      <link>https://ar-lab.org/project/horizon/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/project/horizon/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/L328rF1m_qY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;HORIZON is an interactive audiovisual piece created for the 360 stereoscopic panorama Gallery in the school of creative media in CityU. The piece explores the relationship between space and horizon while experimenting with visual and spatial codes and illusions that tap into the sensory perception of horizontality and motion.  The fact that the visual and the balance system in human perception are interrelated and are prone to illusions open the door to the search for new interesting effects. The work intends to tap into phenomena like fake horizon illusion, Autokenesis and other effects related to sensorimotor feedback loops, exploiting these effects to find new narrative codes within this unexplored big format. The goal was to create an immersive real-time experience, building tools and workflows to produce high-end cinematic computer graphics that were edited and modified live with a certain degree of interactivity while developing workflows to render the content using cutting edge real-time distributed rendering systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Robust Reflectance Estimation for Projection-Based Appearance Control in a Dynamic Light Environment</title>
       <link>https://ar-lab.org/publication/akiyama-2021/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
@@ -598,6 +613,30 @@ Despite no significant change of perceived anxiety, we found a significant incre
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://ar-lab.org/publication/pui-chung-chi-2020/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>AURA</title>
+      <link>https://ar-lab.org/project/aura/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/project/aura/</guid>
+      <description>&lt;p&gt;AURA is an interactive installation designed for the 360° projection theatre immersive system. Besides the circular projection wall, this project utilizes two TV screen through which the users can interact with the projected image. The first TV screen works as an AR mirror. It augments metallic surface onto the viewers’ body. The metallic material reflects the environment. While the user is standing in front of the AR mirror the system saves a still 3D mesh of its body. The captured then gets projected onto the second TV screen. On the middle of this screen, the user can find an attached knob and after rotating it the mesh colour is changed. When the users pick their colour the mesh appears on the wall. Every time a new user goes through this interaction process, its body will be projected onto the wall and a gradually growing timeline of the user&amp;rsquo;s body is going to be created. After the user detaches the knob from the TV screen the knob allows him to control the projected image. The knob’s rotation rotates the timeline of the bodies along a spiralling spline. The viewer can scroll forward or backwards and explore the people who previously occupied the space&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring Perceptual and Cognitive Effects of Extreme Augmented Reality Experience</title>
+      <link>https://ar-lab.org/project/arpsychophysics/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/project/arpsychophysics/</guid>
+      <description>&lt;p&gt;In this proposed Ph.D. research, we are aiming to create several extreme Augmented Reality (AR) that evoke measurable physiological and neurological responses in the human brain.&lt;/p&gt;
+
+&lt;p&gt;These experiments will run on a platform capable of tracking the user&amp;rsquo;s body and recreating a volumetric representations of it. On a Head-Mounted Display, we will overlay real-time photo-realistic stereoscopic graphics on the user&amp;rsquo;s body.&lt;/p&gt;
+
+&lt;p&gt;To investigate our hypotheses, we will build a set of systems each capable of measuring various biomarkers, including cardiac biomarkers, skin conductance, muscle tension, electroencephalogram (EEG) and hormone levels. Additionally, we will use questionnaires and think aloud protocols.&lt;/p&gt;
+
+&lt;p&gt;This research allows insights into the perceptual and cognitive effects unique to AR experiences that can&amp;rsquo;t be reproduced in VR. These insights are from a highly significant clinical interest in psychology, possibly capable of creating new non-invasive ways of treating or accelerating the therapy of many diseases; e.g., mental disorders such as phobias or Obsessive-Compulsive disorder.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -2926,6 +2965,65 @@ Despite no significant change of perceived anxiety, we found a significant incre
     </item>
     
     <item>
+      <title>An Empirical Study about Size-Weight Illusion in Augmented Reality</title>
+      <link>https://ar-lab.org/project/size-weight-illusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/project/size-weight-illusion/</guid>
+      <description>&lt;p&gt;An Empirical Study about Size-Weight Illusion in Augmented Reality&lt;/p&gt;
+
+&lt;p&gt;My Ph.D. research investigates how AR can modify the perceived weight of objects by changing visual features (size, texture, brightness, etc.).&lt;/p&gt;
+
+&lt;p&gt;Within these, the most deeply explored phenomenon is the size-weight illusion (SWI): smaller objects are perceived as heavier. Although other researchers have investigated this effect in AR, I plan to fill a gap conducted psychophysical experiments to determine Point of Subjective Equality(PSE) using AR stimuli.&lt;/p&gt;
+
+&lt;p&gt;Through AR, researchers can do more powerful experiments, which also become useful as inspiration for other researchers. Moreover, AR also could create implications for humanity such as Superman&amp;rsquo;s x-ray vision or reconstructed Utopia.&lt;/p&gt;
+
+&lt;p&gt;If AR has a chance to turn imagination into reality, measuring perception level would become an essential indicator of how AR integrates into human life.&lt;/p&gt;
+
+&lt;p&gt;Directly, Psychologist/Psychophysicist could benefit from our result. They could choose whether to use AR starting their psychophysics experiment. In daily life, ‘feel lighter’ could augment endurance while handling objects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AR Therapies for PTSD</title>
+      <link>https://ar-lab.org/project/ar-ptsd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/project/ar-ptsd/</guid>
+      <description>&lt;p&gt;
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://ar-lab.org/project/ar-ptsd/teaser.png&#34; /&gt;
+    &lt;/div&gt;
+    
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&amp;ldquo;Globally, it is estimated that up to 1 billion children aged 2–17 years, have experienced physical, sexual, emotional violence and neglect” [1], and 30% of the abused child is likely to develop Post-traumatic stress disorder (PTSD) [2]; 354 million adult war survivors are suffering from PTSD [3]; At where the natural disaster occurred, 70.7% of survivors will suffer from acute PTSD [4]. PTSD has not only high prevalence but also high lethality, which is accompanied by multiple physical and mental comorbidities as well as strong suicidal tendencies [5-7]. This doctoral research aims to contribute to the development of PTSD treatment by investigating the potential of Augmented Reality (AR) narrative in treating PTSD. This four-year research project consists of three steps. In the first stage of research, we will conduct a comparative study between AR and VR narratives with participants without mental illnesses to verify whether AR narratives work better in eliciting the emotional engagement of the participants than VR narratives. In the second stage, we will create a system that integrates AR narratives with prolonged exposure (PE) treatment and experiment it with PTSD patients to verify its treatment efficacy. In the final stage, a semi-automatic and patient-authored AR system is expected to be achieved, through which the patients can design their unique exposure environment via voice input. This doctoral research project will provide valuable experimental samples and scientific evidences for the research of psychotherapy, narrative studies, and AR application.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AvatarMeeting: An Augmented Reality Remote Interaction System With Personalized Avatars</title>
+      <link>https://ar-lab.org/project/avatar-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/project/avatar-meeting/</guid>
+      <description>&lt;p&gt;To further enhance the immersion, we involve avatars in remote interactions harnessing Head Mounted Display (HMD) based Augmented Reality (AR). In this demonstration, we present AvatarMeeting to enable users to meet with remote peers through interactive, personalized avatars, just like face to face. Specifically, we propose a novel framework including a consumer-grade set-up, a complete transmission scheme, and a processing pipeline, which consists of prescan modeling, pose detection, and action reconstruction. Moreover, we introduce an angle based reconstruction approach to empower the avatar to perform the same actions as each real remote person does in real-time smoothly while keeping a good avatar shape.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Immersive Projection</title>
+      <link>https://ar-lab.org/project/interactive-immersive-proj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ar-lab.org/project/interactive-immersive-proj/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Spiritual World&amp;rdquo; is an interactive immersive projection trying to build an inner world to show the self-reflection process of participants visually and show the relationship between participants. Experiencing the &amp;ldquo;Spiritual World&amp;rdquo; is like entering other people&amp;rsquo;s inner world or let other people get into your inner world. The interaction between participants will be visually displayed to the surrounding.&lt;/p&gt;
+
+&lt;p&gt;The image and skeleton of audiences will be captured by Azure Kinect, then the captured data will be projected to the TV mirror and the surrounding walls to create the &amp;ldquo;Spiritual World&amp;rdquo;, aiming to turn the indescribable and uncertain interaction and intimacy between people into raw and surreal visuals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>https://ar-lab.org/all_publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2940,14 +3038,6 @@ Despite no significant change of perceived anxiety, we found a significant incre
       <guid>https://ar-lab.org/lab_publications/</guid>
       <description>&lt;p&gt;Quickly discover relevant content by &lt;a href=&#34;https://ar-lab.org/publication/&#34; target=&#34;_blank&#34;&gt;filtering publications&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://ar-lab.org/project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ar-lab.org/project/</guid>
-      <description></description>
     </item>
     
     <item>
